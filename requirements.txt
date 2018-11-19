@@ -1,0 +1,4 @@
+flask
+gunicorn
+google-cloud-pubsub
+py_translator==1.8.9
